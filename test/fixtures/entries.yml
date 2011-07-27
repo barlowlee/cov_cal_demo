@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  start: 2011-07-26 21:58:03
+  finish: 2011-07-26 21:58:03
+  expectation: MyString
+  user_id: 1
+
+two:
+  start: 2011-07-26 21:58:03
+  finish: 2011-07-26 21:58:03
+  expectation: MyString
+  user_id: 1
